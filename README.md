@@ -15,3 +15,5 @@ This script will run commands serially in multiple remote machines
 #prunssh.sh
 This script will run commands in parallel in multiple remote machines
 
+# other resource:
+http://www.shellhacks.com/en/Running-Commands-on-a-Remote-Linux-Server-over-SSH
